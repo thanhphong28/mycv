@@ -69,6 +69,10 @@ html, body {
   -o-object-fit: cover;
      object-fit: cover;
   width: auto; }
+.cover > video {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: auto; }
 
 .progress-bar {
   text-transform: uppercase;
@@ -106,6 +110,7 @@ footer a:not(.nav-link) {
     flex-direction: column-reverse; }
   .portfolio-reverse .text-end {
     text-align: start !important; } }
+  
 
 @media print {
   [data-aos] {
