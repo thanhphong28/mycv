@@ -29,7 +29,7 @@
   border-color: var(--bs-secondary); }
 
 .timeline-card-success:before {
-  border-color: var(--bs-teal); }
+  border-color: var(--bs-info); }
 
 html {
   scroll-behavior: smooth; }
